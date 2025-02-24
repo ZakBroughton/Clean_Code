@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddItemForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddQuantityForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FinancialReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PersonalUsageReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RemoveQuantityForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TransactionLogWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewInventoryReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddItemForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddQuantityForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FinancialReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PersonalUsageReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RemoveQuantityForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TransactionLogWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewInventoryReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

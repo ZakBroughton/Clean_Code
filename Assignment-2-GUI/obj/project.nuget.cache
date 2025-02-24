@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RP1yENkJFJV1XreHFG0/uk8OwwI6+Pg+IvLTZ2cQXR0EEU2WKxDAvf+/zJzbssLDAR8IE1r3dNKJXGC/ue8I/g==",
+  "success": true,
+  "projectFilePath": "D:\\Uni_items\\Year_4\\Clean Coding\\Assignment-2\\Assignment-1\\Assignment-1\\Assignment 2\\Assignment-2-GUI\\Assignment-2-GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakth\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
